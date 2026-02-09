@@ -9,8 +9,16 @@ This repository was created as part of an OpenClaw workshop learning exercise an
 ## Demo Images
 
 ![demo](https://github.com/Tanmay1112004/openclaw-telegram-agent/blob/main/openclaw-tdeelegram-agent/screenshots/Screenshot_8-2-2026_18415_openclaw.ai.jpeg) 
+
 ![demo](https://github.com/Tanmay1112004/openclaw-telegram-agent/blob/main/openclaw-telegram-agent/screenshots/Screenshot_8-2-2026_183522_redesigned-parakeet-97qgx7pr7pr627rjg.github.dev.jpeg)
-![demo](https://github.com/Tanmay1112004/openclaw-telegram-agent/blob/main/openclaw-telegram-agent/screenshots/Screenshot_8-2-2026_183626_redesigned-parakeet-97qgx7pr7pr627rjg.github.dev.jpeg)                   ![demo](https://github.com/Tanmay1112004/openclaw-telegram-agent/blob/main/openclaw-telegram-agent/screenshots/Screenshot_8-2-2026_183759_web.telegram.org.jpeg)                                                   ![demo](https://github.com/Tanmay1112004/openclaw-telegram-agent/blob/main/openclaw-telegram-agent/screenshots/Screenshot_8-2-2026_183938_web.telegram.org.jpeg)                                                    ![demo](https://github.com/Tanmay1112004/openclaw-telegram-agent/blob/main/openclaw-telegram-agent/screenshots/Screenshot_8-2-2026_183715_redesigned-parakeet-97qgx7pr7pr627rjg.github.dev.jpeg)
+
+![demo](https://github.com/Tanmay1112004/openclaw-telegram-agent/blob/main/openclaw-telegram-agent/screenshots/Screenshot_8-2-2026_183626_redesigned-parakeet-97qgx7pr7pr627rjg.github.dev.jpeg) 
+
+![demo](https://github.com/Tanmay1112004/openclaw-telegram-agent/blob/main/openclaw-telegram-agent/screenshots/Screenshot_8-2-2026_183759_web.telegram.org.jpeg)
+
+![demo](https://github.com/Tanmay1112004/openclaw-telegram-agent/blob/main/openclaw-telegram-agent/screenshots/Screenshot_8-2-2026_183938_web.telegram.org.jpeg)
+
+![demo](https://github.com/Tanmay1112004/openclaw-telegram-agent/blob/main/openclaw-telegram-agent/screenshots/Screenshot_8-2-2026_183715_redesigned-parakeet-97qgx7pr7pr627rjg.github.dev.jpeg)
 
 
 ---
