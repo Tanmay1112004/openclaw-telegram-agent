@@ -163,12 +163,3 @@ Computer Engineering | AI & Data Enthusiast
 Workshop-based learning project
 
 ---
-
-## ✅ What This README Signals to Reviewers
-
-* You **understand AI agents**, not just buzzwords
-* You’re **security-aware** (huge plus)
-* You didn’t blindly follow hype
-* You think like an engineer, not a script kiddie
-
----
